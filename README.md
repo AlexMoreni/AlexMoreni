@@ -23,12 +23,15 @@ Algumas das tecnologias e ferramentas que estou utilizando atualmente:
 
 ## 📖 Minhas estatísticas: 
 
-<a href="https://github.com/alexmoreni/github-readme-stats">
+<div style="display: flex;">
+  <a href="https://github.com/alexmoreni/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexmoreni" />
-</a>
-<a href="https://github.com/alexmoreni/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmoreni&layout=compact&langs_count=8&card_width=320" />
-</a>
+  </a>
+  <a href="https://github.com/alexmoreni/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmoreni&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
 
 ### Want to get in touch?
 <a href="https://www.linkedin.com/in/alex-moreni/" target="_blank">
