@@ -11,15 +11,15 @@ Algumas das tecnologias e ferramentas que estou utilizando atualmente:
 
 ⚡ **Front-end**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,sass,bootstrap,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,sass,bootstrap,styledcomponents,materialui,redux,jest)](https://skillicons.dev)
 
 ⚡ **Back-end**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,mongodb,sequelize,prisma)](https://skillicons.dev)
 
 ⚡ **Ferramentas**
 
-[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,postman,vscode)](https://skillicons.dev)
 
 ## 📖 Minhas estatísticas: 
 
