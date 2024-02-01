@@ -2,8 +2,8 @@
 
 **Tenho 18 anos, sou do interior de SP e sou um Desenvolvedor Full Stack.**
 
-- 🌱 Estudando e aprimorando minhas habilidades em **React**, **Node.JS** e **TypeScript**.
-- 📫 Meu e-mail: <a href="mailto:alexmoreni.contact@gmail.com">alexmoreni.contact@gmail.com</a>
+- 🌱 Estudando e aprimorando minhas habilidades em **Next.js** e **Nest.js**.
+- 📫 Meu e-mail: <a href="mailto:alex.moreni47@gmail.com">alex.moreni47@gmail.com</a>
 - 🚀 Aluno Rocketseat, DevClub e DevSamurai.
   
 ## 🤖 Tecnologias:
@@ -42,7 +42,7 @@ Algumas das tecnologias e ferramentas que estou utilizando atualmente:
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="mailto:alexmoreni.contact@gmail.com" target="_blank">
+<a href="mailto:alex.moreni47@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
